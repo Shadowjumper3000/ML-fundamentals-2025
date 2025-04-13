@@ -17,6 +17,15 @@ Welcome to the Machine Learning Class repository. This repository is organized i
     ```bash
     cd machine-learning-class
     ```
+3. Create a virtual environment (optional but recommended):
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+4. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Assignments
 
